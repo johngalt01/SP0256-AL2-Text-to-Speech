@@ -1,6 +1,9 @@
 This is a Text to Speech converter for the SP0256-AL2 speech chip.
 It is very Alpha and I'm sure contains bugs and mistakes.
 
+Designed for the Altair-Duino I/O Bus speech processor card.
+64kb required. Best use on a Harddrive but will work off Floppy Disk if you have the Disk Controller card.
+CP/M 2.2
 
 PARSER.COM is the main program you run and enter either a word or a line of text to convert.
 the converted phonics are saved in TEXTTEMP.TXT then output through READSAY.COM
