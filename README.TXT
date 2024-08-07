@@ -19,4 +19,4 @@ by copying the file name back to TEXTTEMP.TXT
 the rest of the included files in the LIBRARY Archive are needed to support PARSER. 
 BRUN is needed to run all the programs.
 
-Update made to Modules: I, E and L
+Update made 8/6/2024
