@@ -11,7 +11,7 @@ The converted phonics are saved in TEXTTEMP.TXT then output through READSAY.COM
 
 READSAY.COM Will read converted phonics text inside the TEXTTEMP.TXT file
 
-TEXTTEMP.TXT is a temp file that is erased and recreated when PARSER.COM is run.
+TEXTTEMP.TXT is a temp file that is erased and recreated when SAY.COM is run.
 
 you can copy TEXTTEMP.TXT to another file and save the contents which you can use inside of 
 your own program where you want to use speech or you can replay them through READSAY.COM in the future
